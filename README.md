@@ -38,7 +38,7 @@ The curriculum is divided as follows:
 
 # Community
 
-- Join our discussion on Discord! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wuytwK5s9h) 
+- Join our discussion on ...!
   Connect with fellow learners and share your progress, ideas, or ask questions.
 - Contribute to the repository by submitting issues or pull requests. Learn more in the [Contributing](#contributing) section.
 
